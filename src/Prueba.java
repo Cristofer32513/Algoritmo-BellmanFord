@@ -1,7 +1,7 @@
 /*
  * REFERENCIAS
  * NE. (2010). Apuntes de Algoritmos y Programación.
- * 2018, de http://jorgep.blogspot.com/2010/10/ruta-mas-corta-solucion-por-el.html
+ * 2018, de jorgep.blogspot.com
  * Sitio web: http://jorgep.blogspot.com/2010/10/ruta-mas-corta-solucion-por-el.html
  */
 
